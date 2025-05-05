@@ -7,9 +7,12 @@ body {
 }
 
 .poster {
-color: white;
-margin-left: 25%;
-margin-top: 100px;
+    width: 50%;
+    color: white;
+    margin-left: 25%;
+    margin-top: 100px;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
 }
 
 .daenerys-img {
